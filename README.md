@@ -1,16 +1,15 @@
-# crypto_tracker
+# Crypto Tracker 🤑
 
-A new Flutter project.
+## Description
 
-## Getting Started
+A crypto tracking app that shows the current values for cryptocurrencies and can convert them to Fiat.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- DropdownButton Widget from Material design.
+- API usage.
+- Usage of Cupertino Widgets.
+
